@@ -116,7 +116,7 @@ class BottomNavBarItem extends StatelessWidget {
               size: 20,
             ),
             const SizedBox(
-              height: 10,
+              height: 8,
             ),
             Text(
               label,
